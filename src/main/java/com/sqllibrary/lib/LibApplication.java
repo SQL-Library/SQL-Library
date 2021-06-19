@@ -34,6 +34,8 @@ public class LibApplication {
 		System.out.println("Success -----------------");
 
 		Creatable.createNewColumn(tableName, "Email", "VARCHAR(150)", credentials);
+
+		System.out.println("Success -----------------");
 	}
 
 	public static void print(LinkedList<String[]> databaseData) {
