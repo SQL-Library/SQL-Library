@@ -28,6 +28,7 @@ AND YOU MAY NOT RELY ON ANY SUCH INFORMATION OR ADVICE.
 
 ### Licenses
 - [Apache License](Licenses/Apache_License)
+- [GNU AGPLv3 License](Licenses/GNU_AGPLv3)
 
 Notes:
     - continuing development at a later date after full java fundamentals learned
