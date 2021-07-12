@@ -27,7 +27,4 @@ TO YOU BY ANY EMPLOYEE, REPRESENTATIVE OR DISTRIBUTOR WILL CREATE A WARRANTY FOR
 AND YOU MAY NOT RELY ON ANY SUCH INFORMATION OR ADVICE.
 
 Notes:
-- find out how to make project as a library so other people can simply download package
-  and place it in their working directory
-    - test out ^
     - continuing development at a later date after full java fundamentals learned
