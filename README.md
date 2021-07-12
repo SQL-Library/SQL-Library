@@ -26,5 +26,8 @@ FITNESS FOR A PARTICULAR PURPOSE OR INFRINGEMENT. NO ORAL OR WRITTEN INFORMATION
 TO YOU BY ANY EMPLOYEE, REPRESENTATIVE OR DISTRIBUTOR WILL CREATE A WARRANTY FOR THE SOFTWARE, <br />
 AND YOU MAY NOT RELY ON ANY SUCH INFORMATION OR ADVICE.
 
+### Licenses
+- [Apache License](Licenses/Apache_License)
+
 Notes:
     - continuing development at a later date after full java fundamentals learned
