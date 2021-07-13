@@ -6,6 +6,11 @@ object using Secrets.java methods. Use Secrets setters at the beginning of your 
 `Secrets credentials = new Secrets(username_goes_here, username_goes_here, url_goes_here);` <br />
 Also be sure to set class with throws IOException for error handling
 
+## Create methods:
+- void createNewTable(String tableName, String[] columns, String[] dataTypes, Secrets credentials) throws exception
+- void insertIntoTable(String tableName, String[] columns, String[] dataTypes, String[] values, Secrets credentials) throws exception
+- void createNewColumn(String tableName, String columnName, String dataType, Secrets credentials) throws exception
+
 ## Relational SQL services support:
 #### - Postgres
 #### - Spring
