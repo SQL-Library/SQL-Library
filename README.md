@@ -1,4 +1,4 @@
-# SQL Library (currently under development)
+# [DEPRECATED] SQL Library (currently under development)
 
 # How to use: (add to docs)
 Set up username, password and url for db by instantiating a Secrets <br />
